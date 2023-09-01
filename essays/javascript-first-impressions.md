@@ -9,46 +9,6 @@ labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Over the past 5 years of programming I surprisingly haven’t used Javascript much at all. My computer science course in my senior year of high school was taught in Java and all my computer engineering classes were taught in either C or C++. My first taste of Javascript was around a year ago where I took some online courses on Codeacademy over winter break after hearing Javascript was a very important language to know in the software engineering industry. In this course I also learned about HTML and CSS. I didn’t really code a lot in Javascript until this summer where I interned for an IT consulting company and had to program primarily in Javascript. 
+Overall, the switch from C and C++ to Javascript wasn’t too difficult as the logic was similar but the only difficult part was the subtle differences in syntax and getting used to not using types when creating variables. Coming from a typed programming language I found it very odd initializing variables without types. I had some struggles thinking about the logic of my code when the variable types aren't blatently obvious sometimes. The common error I kept making the first week of Javascript was creating for loop initializing the counter as int i=0. The more I’ve used Javascript, I begin to see the power this programming language can potentially have. I still don’t have much experience with Javascript but I do think it is definetely an effective and efficient programming language from a software engineering perspective. One benefit over C and C++ that I immidietely noticed is the simplicity when it comes to parsing data.
+	Athletic software engineering is a concept completely new to me. So far I’ve found the practice WODs very useful as I am a firm believer in effective practice will make you better. This style of learning allows me to stay consistent with my learning and keep improving gradually over time. The in-class WODs are definitely a little bit stressful but I honestly enjoy it a lot. When it comes to timed exams or quizzes I’m a bit weird in the way I enjoy the stress of taking timed assessments. Although the idea of the in-class WODs being full or no credit is a bit daunting to me, I believe this style of learning will fit me perfectly. So far I'm enjoying learning Javascript and I look forward to becoming more competent in this language.
