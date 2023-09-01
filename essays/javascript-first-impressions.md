@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Javascript: First Impressions.."
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-08-31
 published: true
 labels:
-  - Engineering
+  - Javascript
+  - ICS 314
 ---
 
 Over the past 5 years of programming I surprisingly haven’t used Javascript much at all. My computer science course in my senior year of high school was taught in Java and all my computer engineering classes were taught in either C or C++. My first taste of Javascript was around a year ago where I took some online courses on Codeacademy over winter break after hearing Javascript was a very important language to know in the software engineering industry. In this course I also learned about HTML and CSS. I didn’t really code a lot in Javascript until this summer where I interned for an IT consulting company and had to program primarily in Javascript. 
