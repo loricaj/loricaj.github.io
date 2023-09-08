@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "There are no stupid questions... Or are there?"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2023-09-07
 published: true
 labels:
   - Engineering
@@ -11,44 +11,6 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Whether it because of my ego or fear of embarrassment, sometimes I struggle asking for help from my peers or professors. I do trust people who I know to be more knowledgeable than me, but when I approach information provided by less trusted sources, I tread with caution. While this cautious approach has helped me in various situations, it also has its downsides. Over time, I've come to realize the benefit and importance in asking for help when I need. To become the best engineer I can be, I must cultivate the habit of seeking help more frequently and thoroughly considering alternative solutions to my problems. Collaboration is vital for software engineers, as multiple minds working together can lead to quicker and more efficient problem-solving. One convenient way to facilitate this collaboration is through online forums like Stack Overflow, where individuals can pose questions and receive answers from others.
+While we often hear that "There are no stupid questions" from our teachers, in the world of software engineering, not all questions align with this sentiment. Sometimes, it's not the question itself that's foolish, but rather how it's asked. There are also cases where the question is straightforward or the answer is readily available, if only the person asking had done some basic research. For example, on a recent Stack Overflow post, someone had a question about a coding language they clearly didn't understand. Their issue could have been resolved with a simple search about the basics of C++. Another user even suggested they should read a good C++ book, implying that their question was quite basic and didn't require external help. These types of questions can be unproductive for everyone involved. The person asking the question might get an answer, but it can falsely boost their confidence when they lack a foundational understanding of the language. If they struggle with one basic aspect, they probably have gaps in their knowledge of other essential aspects. I can say this because I've been in the position of asking such questions before. For the person answering, it can be a waste of time and effort to respond to a question that has already been addressed. I can also speak from experience on this, as I've been on the answering side of similar situations.
+How can you ask a "smart question"? It may be a bit more complex than you think, but it's worth it. When you ask smart questions, not only will others understand you better, but the answers you receive will also be better than if you asked a less thoughtful question. Let’s look at an example on Stack Overflow where someone asked a really good question. They started with a clear title that summed up their main question. Then, they provided more details about their problem in the body of the post. They also included their code, not just a picture of it, and explained what happened when they ran it. They even mentioned that they tried the same thing in a different programming language. In the end, they wrapped up their question by summarizing the key points they wanted answers to. Because they asked such a well-structured question, they received a detailed and helpful answer. The person who answered their question explained the concept the poster was confused about and broke down the code. This shows that when you ask good questions, you're more likely to get good answers.
