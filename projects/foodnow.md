@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/foodnowlogo (2) (1).png
+image: img/foodnowlogo.png
 title: "Food Now"
 date: 2023-13-11
 published: true
