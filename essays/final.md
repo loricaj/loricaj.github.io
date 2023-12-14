@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="[../img/difficulty/swe-header.jpg](https://gospelstudy.us/wp-content/uploads/2013/10/Pondering.jpg)">
+# <img width="200px" class="rounded float-start pe-4" src="[../img/difficulty/swe-header.jpg](https://gospelstudy.us/wp-content/uploads/2013/10/Pondering.jpg)">
 
 Software Engineering is a career path I've heard many times throughout my academic career but what do software engineers actually do? Through ICS 314 - Software Engineering, I've been able answer this question.
 
