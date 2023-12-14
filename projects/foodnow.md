@@ -13,7 +13,6 @@ labels:
 ---
 
 <img class="img-fluid" src="../img/foodnow1.png">
-<img class="img-fluid" src="../img/foodnow2.png">
 
 The project aimed to make a website for local food sellers at the University of Hawaii at Manoa (UH Manoa). This site connected students, faculty, and staff with different food options on campus. Users could check out vendor profiles, see menus, and order food more easily.
 
