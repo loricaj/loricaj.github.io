@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Syntax to Success: My Evolution in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-13-21
+date: 2023-12-13
 published: true
 labels:
   - Software Engineering
