@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/animalfarm_logo.png
+image: img/animalfarm_logo2.png
 title: "Animal Farm"
 date: 2021
 published: true
